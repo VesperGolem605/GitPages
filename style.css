@@ -10,7 +10,7 @@
   background-color: #800000;
   color: #FFA500;
   border: 2px solid black;
-  border-width = 4px;
+  border-width = 14px;
   margin: 0px;
   padding: 20px;
   float:left;
@@ -20,8 +20,8 @@
 #computer-skills {
   background-color: #FFA500;
   color: #800000;
-  border: 2px solid gray;
-  border-width = 4px;
+  border: 2px solid green;
+  border-width = 14px;
   margin: 0px;
   padding: 20px;
   margin-left:50%
