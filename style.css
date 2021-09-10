@@ -19,9 +19,16 @@
 #computer-skills {
   background-color: #FFA500;
   color: #800000;
-  border: 2px solid black;
+  border: 2px solid gray;
   margin: 0px;
   padding: 20px;
   margin-left:50%
 }
 
+#skills-header {
+   font: "Comic Sans MS";
+}
+
+#skill-sec {
+   font: "Comic Sans MS";
+}
