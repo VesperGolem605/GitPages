@@ -9,8 +9,7 @@
 #programming-languages {
   background-color: #800000;
   color: #FFA500;
-  border: 2px solid black;
-  border-width = 14px;
+  border: 8px solid black;
   margin: 0px;
   padding: 20px;
   float:left;
@@ -20,8 +19,7 @@
 #computer-skills {
   background-color: #FFA500;
   color: #800000;
-  border: 2px solid green;
-  border-width = 14px;
+  border: 8px solid green;
   margin: 0px;
   padding: 20px;
   margin-left:50%
@@ -29,5 +27,5 @@
 
 h3 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  font-size: 12px;
+  font-size: 25px;
 }
